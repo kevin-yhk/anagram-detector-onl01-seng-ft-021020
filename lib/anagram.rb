@@ -5,4 +5,5 @@ def initalize(word)
   @word = word
 end 
 
-def match()
+def match(array)
+  
