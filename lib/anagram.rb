@@ -6,4 +6,4 @@ def initalize(word)
 end 
 
 def match(array)
-  
+  array.select 
