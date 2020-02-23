@@ -7,4 +7,4 @@ end
 
 def match(array)
   array.select do |words|
-    
+    (@word )
