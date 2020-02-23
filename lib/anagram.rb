@@ -6,4 +6,5 @@ def initalize(word)
 end 
 
 def match(array)
-  array.select 
+  array.select do |words|
+    
